@@ -36,7 +36,7 @@
     "application"
   ],
   "dependencies": {
-    "nw-builder": "https://github.com/nwjs/nw-builder.git#4dad59ad1318b62f0942c00db51ed0c303a62084"
+    "nw-builder": "https://github.com/evshiron/nw-builder.git"
   },
   "devDependencies": {
     "grunt": "^0.4.4"
